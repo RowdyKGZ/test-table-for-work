@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "date": { "dateYear": "01.09.2021", "dateHour": "16:37" },
+      "title": "sneakers",
+      "count": 5,
+      "distance": 500
+    },
+    {
+      "id": 2,
+      "date": { "dateYear": "30.08.2021", "dateHour": "15:00" },
+      "title": "glasses",
+      "count": 2,
+      "distance": 1500
+    },
+    {
+      "id": 3,
+      "date": { "dateYear": "25.06.2021", "dateHour": "10:24" },
+      "title": "jeans",
+      "count": 250,
+      "distance": 10000
+    },
+    {
+      "id": 4,
+      "date": { "dateYear": "05.09.2021", "dateHour": "12:37" },
+      "title": "notebook",
+      "count": 5,
+      "distance": 500
+    },
+    {
+      "id": 5,
+      "date": { "dateYear": "02.09.2021", "dateHour": "19:37" },
+      "title": "bottle",
+      "count": 5,
+      "distance": 1500
+    },
+    {
+      "id": 6,
+      "date": { "dateYear": "01.09.2021", "dateHour": "12:37" },
+      "title": "pen",
+      "count": 5,
+      "distance": 500
+    },
+    {
+      "id": 7,
+      "date": { "dateYear": "02.05.2021", "dateHour": "09:37" },
+      "title": "window",
+      "count": 10,
+      "distance": 200
+    },
+    {
+      "id": 8,
+      "date": { "dateYear": "22.05.2021", "dateHour": "11:37" },
+      "title": "phone",
+      "count": 15,
+      "distance": 300
+    }
+  ]
+}

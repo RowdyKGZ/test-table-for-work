@@ -1,0 +1,74 @@
+main {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 25% 25% 25% 25%;
+      grid-template-columns: 25% 25% 25% 25%;
+}
+
+.title {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 25px;
+  border: 1px solid #7e7d7d;
+}
+
+.product_section {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 25% 25% 25% 25%;
+      grid-template-columns: 25% 25% 25% 25%;
+}
+
+.product_section .item {
+  margin-top: 10px;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 25px;
+  border: 1px solid #7e7d7d;
+}
+
+.pagination {
+  margin: 25px auto;
+}
+
+.pagination span {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.pagination span:hover {
+  color: #0084ff;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  margin-top: 25px;
+  margin-bottom: 40px;
+}
+
+.body_filter .title_filter {
+  margin-left: 33%;
+  cursor: pointer;
+}
+
+.body_filter .title_filter:hover {
+  color: #0084ff;
+}
+
+.body_filter div {
+  margin-top: 5px;
+}
+
+.body_filter div span {
+  margin-right: 7px;
+  cursor: pointer;
+}
+
+.body_filter div span:hover {
+  color: #0084ff;
+}
+/*# sourceMappingURL=styles.css.map */
